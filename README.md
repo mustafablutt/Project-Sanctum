@@ -1,10 +1,9 @@
 # pl-yacc-starter-kit
-Group Members-----------
+Group Members--------
+Mustafa Bulut-20170808030
 Berkay Kaptan-20170808050
 Aslı Türkoğlu-20180808012
-Mustafa Bulut-20170808030
 
-Note: Sir we progressed with teamwork and we done this assignment together so we pushed together not separately.
 
 ## Explanations about the language
 
